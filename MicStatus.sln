@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicStatus", "MicStatus\MicStatus.csproj", "{9913DBD5-1640-4046-ABCB-B3E975BFC964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9913DBD5-1640-4046-ABCB-B3E975BFC964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9913DBD5-1640-4046-ABCB-B3E975BFC964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9913DBD5-1640-4046-ABCB-B3E975BFC964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9913DBD5-1640-4046-ABCB-B3E975BFC964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D521F1D8-7136-42FE-B038-8A5EB8D4449E}
+	EndGlobalSection
+EndGlobal
